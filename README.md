@@ -20,6 +20,5 @@ Based on the analysis of the raw data, I performed the following:
 * **Data Standardization**
 
 ---
-## +254753403796
 **Prudence Chebet** | Data Science & ML  
 [LinkedIn](https://linkedin.com/in/prudence-chebet) | prudence.chebet.k@gmail.com
