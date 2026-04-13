@@ -13,12 +13,6 @@ Based on the analysis of the raw data, I performed the following:
 * **Feature Engineering:** * Calculated `content_age` (Year Added - Release Year).
     * Extracted `month_added` and `month_name` for seasonal trend analysis.
 * **Format Standardization:** Converted `date_added` to a clean `YYYY-MM-DD` format.
-
-## 🛠️ Skills Used
-* **Python / Pandas** (Data Manipulation)
-* **Feature Engineering**
-* **Data Standardization**
-
 ---
 **Prudence Chebet** | Data Science & ML  
 [LinkedIn](https://linkedin.com/in/prudence-chebet) | prudence.chebet.k@gmail.com
