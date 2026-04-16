@@ -116,6 +116,7 @@ movie duration to derive meaningful business insights.
 ---
 
 ## Project Structure
+```
 netflix-analysis/
 ├── data/
 |   ├── netflix_titles_cleaned.csv
@@ -129,9 +130,11 @@ netflix-analysis/
 │   └── dashboard screenshots
 └── README.md
 
+```
+
 ---
 
 ## Author
-Prudence Chebet
-[LinkedIn](https://linkedin.com/in/prudence-chebet) | prudence.chebet.k@gmail.com
+Prudence Chebet <br>
+[LinkedIn](https://linkedin.com/in/prudence-chebet) | prudence.chebet.k@gmail.com <br>
 [GitHub](https://github.com/chebetprudence)
